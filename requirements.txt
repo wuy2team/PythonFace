@@ -1,0 +1,7 @@
+deepface
+tf-keras
+opencv-python-headless
+numpy
+fastapi
+uvicorn
+python-multipart
